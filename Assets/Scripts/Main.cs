@@ -7,7 +7,7 @@ using System.IO;
 
 public class Main : MonoBehaviour {
 
-	public GameObject seasonsValue;
+	public GameObject seasonsValue2;
 	public GameObject userValue;
 	public GameObject imgValue;
 
